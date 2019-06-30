@@ -59,6 +59,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Larawolf custom
  
-Template : Matrix
+- Template : Matrix
   https://wrappixel.com/demos/free-admin-templates/matrix-admin/index.html
+
+- Multiple Authentication System Laravel 5.4 | 5.5 | 5.6 | 5.7
+  https://medium.com/hello-laravel/multiple-authentication-system-laravel-5-4-ac94c759638a
+  
+- Laravel project with Backpack CRUD refference
+  https://backpackforlaravel.com/
+  
+  
 
