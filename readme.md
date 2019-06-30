@@ -21,3 +21,6 @@
 - Make Menu Item Active by URL/Route
   https://quickadminpanel.com/blog/laravel-how-to-make-menu-item-active-by-urlroute/
 
+## Larawolf route
+- Split Laravel Routes into Multiple Files
+  https://hisman.co/article/split-laravel-routes-into-multiple-files/
