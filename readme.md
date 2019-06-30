@@ -68,5 +68,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Laravel project with Backpack CRUD refference
   https://backpackforlaravel.com/
   
-  
+- Make Menu Item Active by URL/Route
+  https://quickadminpanel.com/blog/laravel-how-to-make-menu-item-active-by-urlroute/
 
